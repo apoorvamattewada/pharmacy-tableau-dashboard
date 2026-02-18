@@ -8,13 +8,6 @@
 
 ---
 
-## 🔗 Live Demo
-
-> **[View Dashboard on Tableau Public →](https://public.tableau.com/)**  
-> *(Update this link after publishing your `.twbx` to Tableau Public)*
-
----
-
 ## 📋 Project Overview
 
 This end-to-end analytics project simulates a real-world pharmacy chain analytics workflow. It demonstrates data generation, cleaning, KPI definition, and interactive Tableau dashboard design across **5,000 transactions**, **10 product categories**, **5 US regions**, and **4 years (2021–2024)** of sales data.
