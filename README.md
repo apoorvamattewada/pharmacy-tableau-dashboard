@@ -3,9 +3,6 @@
 
 ![Dashboard Preview](docs/assets/dashboard_preview.png)
 
-> **Note:** Replace the image above with a screenshot of your completed Tableau dashboard.  
-> Save it as `docs/assets/dashboard_preview.png` after building.
-
 ---
 
 ## 📋 Project Overview
